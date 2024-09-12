@@ -6,9 +6,9 @@
   <h1>anitamarket.xyz</h1>
   <nav>
     <ul>
-      <li><a href="{base}/">Home</a></li>
-      <li><a href="{base}/about">About</a></li>
-      <li><a href="{base}/contact">Contact</a></li>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Contact</a></li>
     </ul>
   </nav>
 
