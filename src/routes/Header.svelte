@@ -1,3 +1,7 @@
+<script>
+	import { base } from '$app/paths';
+</script>
+
 <header>
   <h1>anitamarket.xyz</h1>
   <nav>
