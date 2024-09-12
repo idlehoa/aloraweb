@@ -1,10 +1,14 @@
+<script>
+	import { base } from '$app/paths';
+</script>
+
 <header>
   <h1>anitamarket.xyz</h1>
   <nav>
     <ul>
-      <li><a href="/">Home</a></li>
-      <li><a href="/about">About</a></li>
-      <li><a href="/contact">Contact</a></li>
+      <li><a href="#">Home</a></li>
+      <li><a href="/"></a>About</a></li>
+      <li><a href="/">Contact</a></li>
     </ul>
   </nav>
 
