@@ -12,12 +12,22 @@
 <Header />
 
 <main class="p-4">
-  <h1 class="text-3xl font-bold mb-4">Welcome to Anitamarket</h1>
-  <p class="text-lg mb-6">Find the best products here at affordable prices.</p>
+  <h1 class="text-3xl font-bold mb-4 text-center">Welcome to Anitamarket</h1>
+  <p class="text-lg mb-6 text-center">
+    Discover the best products at unbeatable prices. Explore our selection and find your perfect match!
+  </p>
 
-  <ul class="list-disc pl-5 space-y-2">
+  <ul class="list-disc pl-5 space-y-4">
     {#each products as product}
-      <li class="text-lg">{product.name} - ${product.price}</li>
+      <li class="flex justify-between items-center border-b border-gray-300 py-4">
+        <span class="text-lg">{product.name} - ${product.price}</span>
+        <a 
+          href="https://discord.anitamarket.xyz" 
+          class="bg-indigo-600 text-white py-2 px-4 rounded-md font-semibold shadow-lg hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-transform transform hover:scale-105"
+        >
+          Add to Cart
+        </a>
+      </li>
     {/each}
   </ul>
 </main>
