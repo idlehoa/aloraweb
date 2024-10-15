@@ -22,7 +22,7 @@
       <li class="flex justify-between items-center border-b border-gray-300 py-4">
         <span class="text-lg">{product.name} - ${product.price}</span>
         <a 
-          href="https://discord.Alora Store.xyz" 
+          href="https://discord.alorastore.xyz" 
           class="bg-indigo-600 text-white py-2 px-4 rounded-md font-semibold shadow-lg hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-transform transform hover:scale-105"
         >
           Add to Cart
