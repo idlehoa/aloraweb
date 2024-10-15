@@ -12,7 +12,7 @@
 <Header />
 
 <main class="p-4">
-  <h1 class="text-3xl font-bold mb-4 text-center">Welcome to Anitamarket</h1>
+  <h1 class="text-3xl font-bold mb-4 text-center">Welcome to Alora Store</h1>
   <p class="text-lg mb-6 text-center">
     Discover the best products at unbeatable prices. Explore our selection and find your perfect match!
   </p>
@@ -22,7 +22,7 @@
       <li class="flex justify-between items-center border-b border-gray-300 py-4">
         <span class="text-lg">{product.name} - ${product.price}</span>
         <a 
-          href="https://discord.anitamarket.xyz" 
+          href="https://discord.Alora Store.xyz" 
           class="bg-indigo-600 text-white py-2 px-4 rounded-md font-semibold shadow-lg hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-transform transform hover:scale-105"
         >
           Add to Cart

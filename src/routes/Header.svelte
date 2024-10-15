@@ -1,5 +1,5 @@
 <header>
-  <h1>anitamarket.xyz</h1>
+  <h1>Alora Store.xyz</h1>
   <nav>
     <ul>
       <li><a href="/">Home</a></li>
