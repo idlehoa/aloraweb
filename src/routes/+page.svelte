@@ -3,9 +3,9 @@
   import Footer from './Footer.svelte';
   
   let products = [
-    { id: 1, name: 'Nô lệ Cấp 0', price: 100 },
-    { id: 2, name: 'Nô lệ Cấp 1', price: 200 },
-    { id: 3, name: 'Nô lệ Cấp 2', price: 300 },
+    { id: 1, name: 'Nole Khoa', price: 100 },
+    { id: 2, name: 'Nole Khoa', price: 200 },
+    { id: 3, name: 'Nole Khoa', price: 300 },
   ];
 </script>
 

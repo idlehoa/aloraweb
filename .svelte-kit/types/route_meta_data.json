@@ -9,6 +9,9 @@
 	"/contact": [
 		"src/routes/+layout.js"
 	],
+	"/price": [
+		"src/routes/+layout.js"
+	],
 	"/tos": [
 		"src/routes/+layout.js"
 	]
