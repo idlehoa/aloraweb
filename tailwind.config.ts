@@ -14,7 +14,27 @@ const config: Config = {
 				lexend: ['Lexend', 'sans-serif'], 
 			},
 			colors: {
-				customColor: '#f0f0f0',
+				primary: {
+					light: '#ffe6eb',  
+					DEFAULT: '#ffafcc',  
+					dark: '#ff7499',  
+					darker: '#ff3366',  
+				},
+				secondary: {
+					light: '#ffccd5',  
+					DEFAULT: '#ff99aa',  
+					dark: '#ff6688',  
+				},
+				accent: {
+					light: '#fff1f5',  
+					DEFAULT: '#ffccd5',  
+					dark: '#ff99aa',  
+				},
+				gray: {
+					light: '#f7f7f7',  
+					DEFAULT: '#e5e5e5',  
+					dark: '#a3a3a3',  
+				},
 			},
 			animation: {
 				'spin-slow': 'spin 3s linear infinite',
