@@ -14,5 +14,17 @@
 	],
 	"/tos": [
 		"src/routes/+layout.js"
+	],
+	"/tos/mc-tos": [
+		"src/routes/+layout.js"
+	],
+	"/tos/netflix-tos": [
+		"src/routes/+layout.js"
+	],
+	"/tos/other-tos": [
+		"src/routes/+layout.js"
+	],
+	"/tos/spotify-tos": [
+		"src/routes/+layout.js"
 	]
 }

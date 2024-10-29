@@ -11,7 +11,7 @@
     { name: "Access to our method", price: "20$" },
   ];
 
-  let notice = "Last update: 29/10/2024✅";
+  let notice = "Last update: 19/10/2024✅";
 </script>
 
 <div class="min-h-screen bg-gradient-to-b from-pink-200 to-pink-300 flex justify-center items-start pt-16 mt-10">
