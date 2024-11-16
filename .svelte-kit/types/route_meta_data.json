@@ -15,6 +15,9 @@
 	"/tos": [
 		"src/routes/+layout.js"
 	],
+	"/tos/discord-tos": [
+		"src/routes/+layout.js"
+	],
 	"/tos/mc-tos": [
 		"src/routes/+layout.js"
 	],
