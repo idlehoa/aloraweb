@@ -9,6 +9,9 @@
 	"/contact": [
 		"src/routes/+layout.js"
 	],
+	"/discord": [
+		"src/routes/+layout.js"
+	],
 	"/price": [
 		"src/routes/+layout.js"
 	],
