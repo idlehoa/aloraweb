@@ -19,7 +19,7 @@
     { category: "Minecraft", name: "Minecraft NFA Unbanned", price: "6.000vnđ", description: "Minecraft No-Firewall Access Unbanned Account" },
   ];
 
-  let notice = "Last update: 19/10/2024✅";
+  let notice = "Last update: 20/01/2025✅";
   let activeCategory = "Discord";
 </script>
 
