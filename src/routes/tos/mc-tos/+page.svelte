@@ -9,6 +9,7 @@
     <ul class="list-disc pl-5 mb-6">
       <li class="mb-2">Tài khoản TTT là tài khoản trắng/fresh, chưa đặt tên Minecraft và Xbox, giống lúc mới mua game.</li>
       <li class="mb-2">Bảo hành là thay thế tài khoản tương tự hoặc gần tương tự.</li>
+      <li class="mb-2">No Vouch = Không Bảo Hành</li>
     </ul>
   
     <p class="text-lg mb-4">Bảo hành 1 đổi 1 trong vòng "14 ngày" hoặc "7 ngày" khi gặp các vấn đề sau:</p>
