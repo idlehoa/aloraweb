@@ -7,11 +7,7 @@
     </div>
     <nav>
       <ul class="flex space-x-6">
-        <li><a href="/" class="hover:text-primary-dark">Home</a></li>
-        <li><a href="/about" class="hover:text-primary-dark">About</a></li>
-        <li><a href="/contact" class="hover:text-primary-dark">Contact</a></li>
-        <li><a href="/tos" class="hover:text-primary-dark">Terms of Service</a></li>
-        <li><a href="/price" class="hover:text-primary-dark">Price</a></li>
+
       </ul>
     </nav>
   </div>
