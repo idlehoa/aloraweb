@@ -32,5 +32,8 @@
 	],
 	"/tos/spotify-tos": [
 		"src/routes/+layout.js"
+	],
+	"/vanduc": [
+		"src/routes/+layout.js"
 	]
 }

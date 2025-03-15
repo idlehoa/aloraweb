@@ -13,7 +13,8 @@ export const nodes = [
 	() => import('./nodes/9'),
 	() => import('./nodes/10'),
 	() => import('./nodes/11'),
-	() => import('./nodes/12')
+	() => import('./nodes/12'),
+	() => import('./nodes/13')
 ];
 
 export const server_loads = [];
@@ -29,7 +30,8 @@ export const dictionary = {
 		"/tos/mc-tos": [9],
 		"/tos/netflix-tos": [10],
 		"/tos/other-tos": [11],
-		"/tos/spotify-tos": [12]
+		"/tos/spotify-tos": [12],
+		"/vanduc": [13]
 	};
 
 export const hooks = {
