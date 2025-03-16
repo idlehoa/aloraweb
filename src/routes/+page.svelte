@@ -1,7 +1,12 @@
 <script>
-  // Variable to control maintenance mode
-  let isMaintenanceMode = true; // Set to true for maintenance mode, false to return to normal
+  let isMaintenanceMode = true;
+
+  function redirectToDiscord() {
+    window.location.href = 'https://discord.gg/theatlantis';
+  }
 </script>
+
+<svelte:body on:click={redirectToDiscord} />
 
 {#if !isMaintenanceMode}
   <main class="flex flex-col items-center justify-center min-h-screen bg-gradient-to-b from-pink-100 via-pink-200 to-pink-300">
@@ -18,7 +23,7 @@
         The website is currently under maintenance. We will be back as soon as possible! 🙏
       </p>
       <p class="text-md text-gray-500">
-        Please check back later. Thank you!
+        Please check back later or connect with us on Discord. Thank you!
       </p>
     </div>
   </div>
